@@ -1,6 +1,4 @@
-.n1,
-.n3,
-.n5 {
+.odd {
     background-color: rgb(235, 66, 221);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
